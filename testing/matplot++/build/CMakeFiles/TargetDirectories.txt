@@ -1,0 +1,3 @@
+/home/eariasp/Documents/2022-2/testing/matplot++/build/CMakeFiles/sine.dir
+/home/eariasp/Documents/2022-2/testing/matplot++/build/CMakeFiles/edit_cache.dir
+/home/eariasp/Documents/2022-2/testing/matplot++/build/CMakeFiles/rebuild_cache.dir

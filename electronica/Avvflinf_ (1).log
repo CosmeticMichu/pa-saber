@@ -1,0 +1,36 @@
+//LINEAR FIT (f>f0)//
+
+
+*******************************************************************************
+Sun Oct  2 19:32:46 2022
+
+
+FIT:    data read from 'Avvf.txt' every ::1::20
+        format = z
+        x range restricted to [4.50000 : 10.0000]
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x)=a1*x+b1
+fitted parameters initialized with current variable values
+
+   5 1.7408636842e+00  -2.08e-05  5.52e-05   -3.466842e+00   1.086652e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.74086
+rel. change during last iteration : -2.07764e-10
+
+degrees of freedom    (FIT_NDF)                        : 18
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.31099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0967146
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = -3.46684         +/- 0.1206       (3.479%)
+b1              = 10.8665          +/- 0.9336       (8.592%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.997  1.000 
